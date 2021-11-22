@@ -14,10 +14,9 @@
   
 
   ## Table of Contents
+  * [Description](#description)
   * [Installation](#installation)
-  * [Usage](#usage)
-  * [Contribution](#contribution)
-  * [License](#license)
+  * [Questions?](#questions?)
   
   ## Installation
   
