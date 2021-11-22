@@ -22,7 +22,7 @@
   
  
   Just clone the repository and make sure to install all the necessary dependencies. Run the schema and seed the database. Start the server with npm start. 
-  Watch this video tutorial for more clarification...
+  Watch me create, read, update and delete database data in this quick video tutorial...
    <a href="https://watch.screencastify.com/v/qqx7iRFcRcbbSivqAd3h"> Video Tutorial </a>
   
   
