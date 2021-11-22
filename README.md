@@ -1,18 +1,14 @@
 # E-commerce-back-end
  ## Description 
 
-  
+ This is the back-end of an e-commerce site. Here I was given working Express.js API and I configured it to use Sequelize and interact with a MySQL database.
+ Now all CRUD opperations can be performed with ease.  
   
 ![post-product](https://user-images.githubusercontent.com/79805880/142913260-23579d25-ceab-4ed3-8650-8fee4b66519d.png)
 
 
 
- This is the back-end of an e-commerce site. Here I was given working Express.js API and I configured it to use Sequelize and interact with a MySQL database.
- Now all CRUD opperations can be performed with ease. 
-  
-  
-  
-
+ 
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
